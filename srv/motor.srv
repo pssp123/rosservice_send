@@ -1,0 +1,4 @@
+bool isOpen   #Is need to open motor
+---
+bool isSuccess #Is received the service
+string reply #The receiver reply something to caller
