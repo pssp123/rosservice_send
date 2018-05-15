@@ -9,7 +9,6 @@ project(rosservice_send)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
         roscpp
-        std_srvs
         message_generation)
 
 add_service_files(FILES
